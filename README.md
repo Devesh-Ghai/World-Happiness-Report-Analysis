@@ -105,7 +105,7 @@ Key visualizations during data cleaning:
 
 ---
 
-## Insights for Stakeholders
+## Insights
 ### Governments:
 - Invest in health systems for regions with low life expectancy but high GDP.
 - Address social inequalities to improve overall well-being.
